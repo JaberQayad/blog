@@ -1,0 +1,22 @@
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/keybindings.json
+!.vscode/snippets
+!.vscode/snippets/*
+!.vscode/snippets/*.json
+!.vscode/snippets/*.code-snippets
+!.vscode/snippets/*.sublime-snippet
+
+
+#local history for vscode
+.history
+
+# built vscode extension
+*.vsix
+
+# End of https://www.gitignore.io/api/vscode
+```
+
+## 3.2. Gitignore for Node.js
